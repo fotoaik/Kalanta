@@ -25,4 +25,4 @@
 ## ΤΥΠΟΣ ΜΑΘΗΣΙΑΚΟΥ ΑΝΤΙΚΕΙΜΕΝΟΥ
 εικόνα, ήχος, κείμενο, οπτικοποίηση
 
-Τα κάλαντα του Ελληνισμού © 2023 by Φωτοπούλου Αικατερίνη is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Τα κάλαντα του Ελληνισμού © 2023 by [Φωτοπούλου Αικατερίνη](https://fotoaik.eu/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
